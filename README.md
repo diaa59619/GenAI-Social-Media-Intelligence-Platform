@@ -199,8 +199,7 @@ GenAI-Social-Media-Intelligence-Platform/
 │   └── tableau_dashboard.png
 │
 ├── README.md
-│
-└── requirements.txt
+
 ```
 
 ---
@@ -220,7 +219,7 @@ GenAI-Social-Media-Intelligence-Platform/
 
 ---
 
-## 📬 Author
+##  Author
 
 **Diya Prithiani**
 
